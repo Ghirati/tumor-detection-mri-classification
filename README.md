@@ -13,12 +13,12 @@ This project aims to develop machine learning models for analyzing MRI images, s
 
 ---
 
-## TODO List
+## Notes
 
-- [ ] **Skull stripping**: Explored available solutions but did not find suitable repositories for implementation.  
-- [ ] **Metadata usage**: Plan to integrate DICOM metadata into the fully connected layer of the model.  
-- [ ] **Bias field correction**: Considered but abandoned due to excessive execution time.  
-- [ ] **Histogram equalization**: Evaluated but found to degrade image quality, so it was not adopted.
+-  **Skull stripping**: Explored available solutions but did not find suitable repositories for implementation.  
+-  **Metadata usage**: Plan to integrate DICOM metadata into the fully connected layer of the model.  
+-  **Bias field correction**: Considered but abandoned due to excessive execution time.  
+-  **Histogram equalization**: Evaluated but found to degrade image quality, so it was not adopted.
 
 ---
 
